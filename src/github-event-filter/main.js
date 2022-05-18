@@ -1,4 +1,4 @@
-import initActivityFilter from './activity/index.js';
+import initActivityFilter from './github-event-filter/activity/index.js';
 import initCommitFilter from './commit/index.js';
 
 

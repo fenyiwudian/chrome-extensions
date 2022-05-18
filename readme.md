@@ -1,1 +1,1 @@
-Try to filter github commits and activities produced by robots with chrome extension.
+chrome extensions.
