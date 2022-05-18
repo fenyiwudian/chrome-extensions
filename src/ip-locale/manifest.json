@@ -1,0 +1,13 @@
+{
+  "name": "IP Locale",
+  "description": "Show Locale after each ip address",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["scripting", "activeTab"]
+}
